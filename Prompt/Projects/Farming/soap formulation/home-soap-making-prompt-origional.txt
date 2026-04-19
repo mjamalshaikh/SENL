@@ -1,0 +1,51 @@
+We are designing a closed-loop, urban household system in a city like Karachi that combines homemade cleaning products, greywater treatment, and urban farming.
+Our plan is to produce homemade soaps and cleaners including:
+•	Shampoo 
+•	Hand wash 
+•	Body wash 
+•	Laundry detergent 
+•	Dishwashing liquid 
+The greywater generated from using these products will be treated through a greywater wetland filtration system, and then reused within the same household.
+Intended reuse of treated greywater:
+We want the filtered water to be safely usable for:
+Urban farming & biological systems:
+•	Black Soldier Fly (BSF) larvae units (to moisten/soften feed) 
+•	Duckweed cultivation (protein production) 
+•	Azolla farming 
+•	Vermicomposting (earthworms) 
+•	Irrigation of creeper vegetables, other vegetables, and fruit trees 
+Household reuse:
+•	Reuse in laundry and dishwashing (where feasible) 
+•	Washing floors, cars, and similar uses 
+Key constraints:
+•	We are using dry toilets, so no toilet-related reuse is needed 
+•	The goal is to reduce freshwater consumption and enable safe reuse in food-related systems (plants, animal feed inputs) 
+•	The system must be suitable for dense urban environments (e.g., rooftops) 
+
+What we need from you:
+1.	Soap / cleaning product formulations that: 
+o	Are greywater-friendly and biodegradable 
+o	Have long shelf life 
+o	Do not harm: 
+	Soil biology 
+	Worms (vermicomposting) 
+	BSF larvae 
+	Aquatic plants (duckweed, azolla) 
+o	Avoid buildup of salts, toxins, or harmful residues in reused water 
+2.	Guidance on: 
+o	Ingredients to use vs avoid (e.g., surfactants, fragrances, preservatives) 
+o	Whether different formulations are needed for: 
+	Personal care vs laundry vs dishwashing 
+o	pH and other parameter considerations for reuse in biological systems 
+o	Trade-offs between cleaning performance and ecological safety 
+3.	Any design recommendations to improve compatibility between: 
+o	Soap formulations 
+o	Wetland filtration 
+o	Downstream reuse systems
+
+Additional Preferences & Constraints:
+•	We prefer formulations that rely on natural, locally available ingredients rather than synthetic or industrial chemicals 
+•	The soap and cleaning products should use natural preservation methods (e.g., plant-based preservatives, pH control, drying techniques) to achieve a long shelf life without relying on synthetic preservatives 
+•	Priority should be given to ingredients that can be grown locally in Karachi or sourced domestically within Pakistan, minimizing dependence on imports 
+•	If certain ingredients are not currently common locally, suggest alternatives that can be cultivated in an urban or peri-urban setting (e.g., rooftop or small-scale farming) 
+•	Overall, the system should support self-reliance, low cost, and resilience in a Karachi urban environment
